@@ -310,7 +310,7 @@ export default function Home() {
         <footer className={styles.footer}>
           <span className={styles.footerSig}>A Kate Haan tool</span>
           <span>
-            Built with Claude ·{' '}
+            Built with Claude Code ·{' '}
             <a
               href="https://github.com/kaitwaite/escalation-advisor-public"
               target="_blank"
