@@ -4,7 +4,7 @@
 
 A lightweight AI-powered tool that helps team members make better escalation decisions — and helps managers codify what "escalation-worthy" actually means for their team.
 
-**[Try the live demo →](https://escalation-advisor-public.vercel.app)**
+**[Try the live demo →](https://escalation-advisor-demo.katehaan.dev)**
 
 ---
 
